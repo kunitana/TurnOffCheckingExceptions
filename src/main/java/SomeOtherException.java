@@ -1,0 +1,2 @@
+class SomeOtherException extends Exception {
+}
